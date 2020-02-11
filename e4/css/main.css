@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(150,123,182);
+  color: white;
+  font-family: didot;
+  font-size: 35px;
+  margin: 100px;
+}
+
+h1{
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;
+}
+li {
+  margin: 25px 0 0 0;
+}
