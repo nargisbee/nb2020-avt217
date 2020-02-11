@@ -1,0 +1,23 @@
+body{
+  margin: 0
+}
+.container{
+
+}
+.block-1, block-2, block-3{
+  width: 100px
+  height: 100px
+  float: left;
+}
+.block-1{
+  background-color: cyan;
+}
+.block-2{
+  background-color: yellow;
+}
+.block-3{
+  background-color: magenta
+}
+div{
+
+}
