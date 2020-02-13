@@ -8,6 +8,9 @@ body {
   margin: 100px;
   text-align: center;
 }
+p{
+  border-style: dotted;
+}
 
 h1{
   text-align: center;
