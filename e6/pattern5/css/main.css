@@ -16,19 +16,19 @@ border-radius: 65%;
 .block-1 {
   <style>
 .rectangle {
-  height: 50px;
+  height: 15px;
   width: 100px;
   float: left;
   opacity: 1;
-  border: 5px solid cornflowerblue;
+  border: 10px solid lightblue;
 }
 .block-2 {
     width: 100px;
-    height: 50px;
+    height: 75px;
     float: left;
     opacity: 1;
-    border-radius: 70%;
-    border: 10px solid midnightblue;
+    border-radius: 65%;
+    border: 10px solid magenta;
 }
 .block-3 {
   width: 85px;
@@ -36,5 +36,5 @@ border-radius: 65%;
   float: left;
   opacity: 1;
   border-radius: 30%;
-  border: 10px solid lightblue;
+  border: 10px solid midnightblue;
 }
