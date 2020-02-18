@@ -20,7 +20,7 @@ border-radius: 65%;
   width: 100px;
   float: left;
   opacity: 1;
-  border: 10px solid lightblue;
+  border: 7px solid lightblue;
 }
 .block-2 {
     width: 100px;
@@ -36,5 +36,5 @@ border-radius: 65%;
   float: left;
   opacity: 1;
   border-radius: 30%;
-  border: 10px solid midnightblue;
+  border: 5px solid midnightblue;
 }
