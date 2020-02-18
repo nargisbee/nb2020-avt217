@@ -1,0 +1,41 @@
+.block-1, .block-2, .block-3, .block-4, .block-5, .block-6,{
+    width: 100px;
+    height: 100px;
+    float: left;
+  }
+  .block-1 {
+    background-color:
+pink;
+border-color:pink;
+float: left;
+margin: 10;
+}
+.block-2 {
+    background-color: springgreen;
+border-color:springgreen;
+float: left;
+margin: 10;
+}
+.block-3 {
+    background-color: pink;
+border-color:pink;
+float: left;
+margin: 10
+}
+.block-4 {
+    background-color: springgreen;
+border-color:springgreen;
+float: left;
+margin: 10;
+}
+.block-5 {
+    background-color:pink;
+border-color:pink;
+float: left;
+margin: 10;
+}
+.block-6 {
+    background-color:springgreen;
+border-color:springgreen;
+float: left;
+margin: 10;
