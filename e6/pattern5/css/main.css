@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+.container {
+ width: 130vw;
+ margin: -50px -10%;
+}
+.block-1, .block-2, .block-3{
+  width: 100px;
+  height: 75px;
+  float: left;
+border-radius: 65%;
+  border: 10px solid magenta;
+}
+.block-1 {
+  <style>
+.rectangle {
+  height: 50px;
+  width: 100px;
+  float: left;
+  opacity: 1;
+  border: 5px solid cornflowerblue;
+}
+.block-2 {
+    width: 100px;
+    height: 50px;
+    float: left;
+    opacity: 1;
+    border-radius: 70%;
+    border: 10px solid midnightblue;
+}
+}
+.block-3 {
+  width: 85px;
+  height: 15px;
+  float: left;
+  opacity: 1;
+  border-radius: 30%;
+  border: 10px solid lightblue;
+}
