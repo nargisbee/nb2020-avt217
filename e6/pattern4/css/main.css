@@ -29,7 +29,6 @@ border-radius: 65%;
     border-radius: 50%;
     border: 10px solid cornflowerblue;
 }
-}
 .block-3 {
   width: 100px;
   height: 80px;
@@ -37,3 +36,4 @@ border-radius: 65%;
   opacity: .8;
   border-radius: 50%;
   border: 10px solid hotpink;
+}
