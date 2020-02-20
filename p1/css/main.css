@@ -1,4 +1,3 @@
-/* selector */
 
 body {
   background-color: rgb(150,123,182);
@@ -25,12 +24,4 @@ a:hover {
 }
 li {
   margin: 25px 0 0 0;
-}
-#images {
-  margin: 0;
-  text-align: center;
-}
-#images img {
-  max-width: 100%;
-  margin: 25px 0;
 }
