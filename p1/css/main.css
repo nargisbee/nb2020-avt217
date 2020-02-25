@@ -10,16 +10,14 @@ body {
 p{
   border-style: dotted;
    color: 10px black;
-}
-a{
-  text-decoration: underline;
-}
+ }
+
 h1{
   text-align: center;
 }
 a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   color: pink;
