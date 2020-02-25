@@ -3,7 +3,7 @@ body{
 }
 .board{
   width: 400px;
-  margin:
+  margin: 100px auto;
 }
 .red, .white{
   float: left;
