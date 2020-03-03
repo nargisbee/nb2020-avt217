@@ -5,12 +5,12 @@ body {
   color: white;
   font-family: didot;
   font-size: 45px;
-  margin: 100px;
+  margin: 80px;
   text-align: center;
 }
 p{
   border-style: dotted;
-   color: 10px black;
+   color: 5px black;
 }
 
 h1{
