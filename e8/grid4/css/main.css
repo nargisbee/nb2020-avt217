@@ -1,18 +1,17 @@
 body {
   background-color: tan;
+}
 
-  }#container {
+#container {
   width: 600px;
   margin: 100px auto;
 }
 #container2 {
   width: 600px;
-
 }
 .column1, .header, .column2 {
   float: left;
   background-color: teal;
-
 }
 .header {
   width: 390px;
@@ -39,16 +38,3 @@ body {
 .column2 {
   width: 192.5px;
   height: 235.5px;
-}
-.m1 {
-  margin: -605px 105px;
-}
-.m2 {
- margin: -605px 302.5px;
-}
-.m3 {
- margin: -365px 105px;
-}
-.m4 {
-  margin: -365px 302.5px;
-}
