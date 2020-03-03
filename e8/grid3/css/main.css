@@ -1,0 +1,33 @@
+body{
+  background-color: blanchedalmond;
+}
+.container {
+  width: 900px;
+  margin: 100px auto;
+}
+.title, .column1, .column2, .subhead {
+  float: left;
+  background-color: cornflowerblue;
+}
+.title {
+  width: 900px;
+  height: 150px;
+}
+.column1 {
+  width: 700px;
+  height: 400px;
+  margin: 150px 0px 0px 0px;
+}
+.subhead {
+  width: 700px;
+  height: 50px;
+  margin: 20px 0px;
+}
+
+.column2 {
+  float: left;
+  background-color: #cornflowerblue;
+  width: 160px;
+  height: 200px;
+  margin: 150px 20px 0px;
+}
