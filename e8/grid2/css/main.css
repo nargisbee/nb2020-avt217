@@ -3,8 +3,8 @@
   margin: 100px auto;
 }
 .header, .subhead, .column, .footer {
-  background-color: orange;
   float: left;
+  background-color: orange;
 }
 .header {
   width: 900px;
@@ -15,14 +15,15 @@
   height: 50px;
   margin: 25px 0;
 }
-.column, {
+.column {
   width: 283.33px;
   height: 600px;
 }
-.columnmargins{
+.columnmargins {
   width: 283.33px;
   height: 600px;
-  margin: 0 25px;
+  margin: 0px 25px;
+  float: left;
   background-color: orange;
 }
 .footer {
