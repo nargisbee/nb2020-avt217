@@ -3,11 +3,11 @@ body {
 }
 
 #container {
-  width: 600px;
+  width: 400px;
   margin: 100px auto;
 }
 #container2 {
-  width: 600px;
+  width: 400px;
 }
 .column1, .header, .column2 {
   float: left;
