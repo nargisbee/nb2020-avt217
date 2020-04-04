@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  color: darkgray
+  height: 100px;
+}
+
+.header {
+width: 100%;
+text-align: center;
+height: 100px;
+color: darkgray;
+font-size: 40px;
+font-family: monospace;
+}
+
+h2{
+  width: 100%;
+  text-align: center;
+  height: 100px;
+  color: darkgray;
+  font-size: 20px;
+  font-family: monospace;
+
+}
+
+h3  {
+  width: 100%;
+  text-align: center;
+  height: 100px;
+  color: darkgray;
+  font-size: 20px;
+  font-family: monospace;
+
+}
+.mainText {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  height: 100px;
+  color: darkgray;
+}

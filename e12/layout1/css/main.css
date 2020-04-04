@@ -22,8 +22,11 @@ body {
 
 
 @media only screen and (max-width: 768px) {
-.container {
-  margin: 50px auto;
+  .container {
+    margin: 50px auto;
+  }
+  .mainText {
+    width: 100%;
+    margin: 20% 0 0 0;
+  }
 }
-
-.mainText:
