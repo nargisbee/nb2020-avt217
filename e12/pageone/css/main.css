@@ -1,7 +1,7 @@
 body {
   margin: auto;
   width: 50%;
-  text-align: center;
+  text-align: left;
   color: darkgray
   height: 100px;
 }
@@ -37,7 +37,7 @@ h3  {
 .mainText {
   width: 50%;
   margin: auto;
-  text-align: center;
+  text-align: left;
   height: 100px;
   color: darkgray;
 }
